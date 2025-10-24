@@ -61,5 +61,3 @@ It gives Bitcoin, Ethereum, Dogecoin prices, 24h change, and Bitcoin 6-hour hist
 
 - Prices are integers for simplicity
 - Bitcoin chart shows 1-hour interval points plus latest price
-- Easy to understand and use for beginners
-- Can extend for more coins if needed
